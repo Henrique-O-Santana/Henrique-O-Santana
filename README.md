@@ -1,5 +1,5 @@
 
-# 🧠 Henrique Oliveira
+# 🧠 Henrique Oliveira de Santana
 Desenvolvedor Back-end e cursando engenharia de software, atualmente estudando Java e PHP.
 
 
