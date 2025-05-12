@@ -9,7 +9,7 @@ Desenvolvedor Back-end e cursando engenharia de software, atualmente estudando J
 
 #### Linguagens que  mais uso
  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Henrique-O-Santana&theme=neon&hide_title=true&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Henrique-O-Santana&theme=neon&hide_title=true&text_color=FFF&layout=compact)
 
 ## 🔗 Links
 
